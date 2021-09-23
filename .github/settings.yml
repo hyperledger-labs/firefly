@@ -1,0 +1,18 @@
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+repository:
+  name: firefly
+  description: An automation framework for rapidly and consistently deploying production-ready DLT platforms
+  homepage: https://hyperledger.github.io/firefly/
+  default_branch: main
+  has_downloads: true
+  has_issues: false
+  has_projects: false
+  has_wiki: false
+  archived: true
+  private: false
+  allow_squash_merge: true
+  allow_merge_commit: true
+  allow_rebase_merge: true
